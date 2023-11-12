@@ -3,4 +3,10 @@
     <header> 
       <img src = "https://cdn-icons-png.flaticon.com/512/7315/7315465.png"/>
     </header>
+    <body>
+    <table style = "background-color:deeppink">
+      <tr>
+        <td>бий</td>
+      </tr>
+</body>
 </html>
